@@ -1,0 +1,21 @@
+{
+    "name": "zotero-board",
+    "version": "1.0.0",
+    "description": "<!-- **BenkoBot/BenkoBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/k7n4n5t3w4rt/zotero.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/k7n4n5t3w4rt/zotero/issues"
+    },
+    "homepage": "https://github.com/k7n4n5t3w4rt/zotero#readme"
+}
